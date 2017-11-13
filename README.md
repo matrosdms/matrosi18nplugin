@@ -3,6 +3,10 @@ Manage internationalization (i18n) with the new style '@Translation' using a pla
 
 adds a new Translation-View
 
-the project will be adressed like yourProject@src/net/matrosdms
+the folder will be adressed like
+
+net.schwehla.matrosdms.i18n@src/net/schwehla/matrosdms/i18n
 
 there will be scanned for the properties and the mapping-class
+
+# attention: You must start eclipse with -clearPersistedState else the new menu will not appear
